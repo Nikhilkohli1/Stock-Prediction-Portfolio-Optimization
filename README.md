@@ -1,8 +1,11 @@
-# Stock-Prediction-Portfolio-Optimization
+# Feature Extraction & Stock Price Prediction (Multi)
 
-A Streamlit based application to extract features and predict future Stock Price. I have developed a Pipeline to let anyone train their own multiple Machine Learning models on multiple stocks to generate Buy/Sell Signals. This is a WIP and I will keep on adding new ideas to this in future.
+A Streamlit based application to extract features and predict future Stock Price. 
+In this application, I have developed a Pipeline to let anyone train their own multiple Machine Learning models on multiple stocks simultanously to generate Buy/Sell Signals using the best model. 
 
-  Streamlit Web App link - https://stock-prediction-dashboard.herokuapp.com/
+This is a WIP and I will keep on adding new ideas to this in future.
+
+  Streamlit WebApp link - https://stock-prediction-dashboard.herokuapp.com/
 
   Medium Post - https://medium.com/@nikhilkohli1992/extracting-features-for-stock-prediction-streamlit-based-application-a97afc55d926
 
