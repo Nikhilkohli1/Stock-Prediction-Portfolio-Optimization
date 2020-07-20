@@ -1,4 +1,4 @@
-# Feature Extraction & Stock Price Prediction on Multiple Stocks
+# Feature Extraction & Stock Price Prediction Pipeline (for training on Multiple Stocks)
 
 A Streamlit based application to extract features and predict future Stock Price. 
 In this application, I have developed a Pipeline to let anyone train their own multiple Machine Learning models on multiple stocks simultanously to generate Buy/Sell Signals using the best model. 
