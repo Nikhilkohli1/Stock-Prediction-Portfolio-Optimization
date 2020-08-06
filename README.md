@@ -22,8 +22,9 @@ This is a WIP and I will keep on adding new ideas to this in future.
 
 ## Dashboard Screenshots - 
 
-![Streamlit Dash](https://github.com/Nikhilkohli1/Stock-Prediction-Portfolio-Optimization/blob/master/Streamlit%20Dashboard/Steramlitdash.PNG)
-
 ![Streamlit Dash](https://github.com/Nikhilkohli1/Stock-Prediction-Portfolio-Optimization/blob/master/Streamlit%20Dashboard/Streamlit%20features.PNG)
 
 ![Streamlit Dash](https://github.com/Nikhilkohli1/Stock-Prediction-Portfolio-Optimization/blob/master/Streamlit%20Dashboard/Streamlit2.PNG)
+
+![Streamlit Dash](https://github.com/Nikhilkohli1/Stock-Prediction-Portfolio-Optimization/blob/master/Streamlit%20Dashboard/Steramlitdash.PNG)
+
