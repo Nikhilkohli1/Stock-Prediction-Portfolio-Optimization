@@ -19,3 +19,11 @@ This is a WIP and I will keep on adding new ideas to this in future.
 
 
 ![Its a Numbers Game](https://github.com/Nikhilkohli1/Stock-Prediction-Portfolio-Optimization/blob/master/Streamlit%20Dashboard/Stock.gif)
+
+## Dashboard Screenshots - 
+
+![Streamlit Dash](https://github.com/Nikhilkohli1/Stock-Prediction-Portfolio-Optimization/blob/master/Streamlit%20Dashboard/Steramlitdash.PNG)
+
+![Streamlit Dash](https://github.com/Nikhilkohli1/Stock-Prediction-Portfolio-Optimization/blob/master/Streamlit%20Dashboard/Streamlit%20features.PNG)
+
+![Streamlit Dash](https://github.com/Nikhilkohli1/Stock-Prediction-Portfolio-Optimization/blob/master/Streamlit%20Dashboard/Streamlit2.PNG)
