@@ -1,0 +1,14 @@
+streamlit==0.49.0
+altair==3.2.0
+sklearn
+pandas
+numpy
+plotly
+matplotlib
+seaborn
+IPython
+tqdm
+alpha_vantage
+xgboost
+yfinance
+lxml
