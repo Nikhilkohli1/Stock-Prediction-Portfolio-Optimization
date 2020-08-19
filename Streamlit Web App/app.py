@@ -97,8 +97,6 @@ class Stocks:
     
     def get_stock_data(self, Ticker):
     
-        #ALPHA_VANTAGE_API_KEY = 'XAGC5LBB1SI9RDLW'
-        #self.ts = TimeSeries(key= ALPHA_VANTAGE_API_KEY, output_format='pandas')
         print('Loading Historical Price data for ' + self.Ticker + '....')
         #self.df_Stock, self.Stock_info = self.ts.get_daily(self.Ticker, outputsize='full') 
         Stock_obj = yf.Ticker(self.Ticker)
