@@ -3,6 +3,10 @@
 A Streamlit based application to extract features and predict future Stock Price. 
 In this application, I have developed a Pipeline to let anyone train their own multiple Machine Learning models on multiple stocks simultanously to generate Buy/Sell Signals using the best model. 
 
+I have also created a Kaggle Dataset using the extracted features for Nasdaq-100 companies. 
+https://www.kaggle.com/nikhilkohli/us-stock-market-data-60-extracted-features
+
+
 ## There are 3 Dashboards in the web application - 
 
 ***1. Stock Exploration & Feature Extraction***
